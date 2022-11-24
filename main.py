@@ -3,4 +3,5 @@
 # import Formatted_Numbers
 # import Is_Palindrome
 # import Clock_Math
-import Divisors
+# import Divisors
+import is_anagram
